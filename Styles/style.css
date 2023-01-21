@@ -1,0 +1,18 @@
+.rider-background-color {
+    background-color: #CAD5E2;
+}
+
+.primary-background-color {
+    background-color: #758283;
+    color: white;
+}
+
+.footer-background-color {
+    background-color: #0B0D17;
+    color: white;
+}
+
+
+body {
+    overflow-x: hidden;
+}
